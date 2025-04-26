@@ -1,8 +1,10 @@
 # NOWPayments API Wrapper
 
+PLEASE NOTE: THIS IS ACTIVELY BEING DEVELOPED, AND WILL NOT WORK FOR YOU!!!
+
 A Python wrapper for the NOWPayments cryptocurrency payment gateway API.
 
-[Docs](https://google.com/) TODO: replace this with docs site.
+[Documentation](https://google.com/) TODO: replace this with docs site.
 
 ## Installation
 
